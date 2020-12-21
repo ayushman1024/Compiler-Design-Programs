@@ -4,14 +4,14 @@ Some important C programs for various subjects of Engineering grads students, wh
 ## Input
 > Each production in separate line no spaces in production, or space will be treated as symbol.
 ### Example
-> Number of productions? **5**
-> Enter prod 0:   **A->BCDx**
-> Enter prod 1:   **B->#**
-> Enter prod 2:   **C->#**
-> Enter prod 3:   **D->d**
-> Enter prod 4:   **D->e**
+> Number of productions? **5**  
+> Enter prod 0:   **A->BCDx**  
+> Enter prod 1:   **B->#**  
+> Enter prod 2:   **C->#**  
+> Enter prod 3:   **D->d**  
+> Enter prod 4:   **D->e**  
 
-> Enter char symbol ? A
-> first of A is : **{   # d e }**
+> Enter char symbol ? A  
+> first of A is : **{   # d e }**  
 
 
